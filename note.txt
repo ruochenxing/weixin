@@ -1,0 +1,5 @@
+sudo ngrok http 80
+
+kill nginx
+
+http://13d12c5f.ngrok.io/wechat.do
